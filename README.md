@@ -11,20 +11,7 @@ Welcome to NumberDB—an advanced scraping tool designed to extract and manage b
 
 📂 Project Structure
 
-plaintext
 
-numberdb/
-├── .gitignore
-├── errors.py          # Custom error handling
-├── main.py            # Entry point for running the scraper
-├── requirements.txt   # Dependencies for the project
-├── utils.py           # Utility functions, including user-agent rotation
-├── yelp.db            # SQLite database for Yelp scraping
-├── yelp.py            # Yelp-specific scraping logic
-├── yelp_db.py         # Database management for Yelp scraping
-├── yp.py              # Yellow Pages-specific scraping logic
-├── yp_db.py           # Database management for Yellow Pages scraping
-└── yp_scraper.py      # Core Yellow Pages scraping functions
 
 🛠️ Getting Started
 Prerequisites
